@@ -13,4 +13,4 @@ The game dynamically generates a shuffled set of cards and renders them on the g
 
 This project demonstrates how modern **TypeScript** and **CSS** techniques can be combined to build interactive, maintainable, and visually engaging browser-based games.
 
-[PLAY NOW]()
+[PLAY NOW](https://dariakalenikova.github.io/memory_game/)
